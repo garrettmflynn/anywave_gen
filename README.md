@@ -1,6 +1,6 @@
 # anywave_gen
- An AnyWave plugin for the Global EEG Norms (GEN) project
- 
+An AnyWave distribution package for the Global EEG Norms (GEN) project
+
  ## Notes
  `xdg-open` must be distributed with the executable files to allow the browser to be automatically opened.
 
