@@ -12,19 +12,19 @@
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "express": "^4.17.1",
+    "extract-dmg": "^1.0.0",
     "open": "^8.4.0",
     "pkg": "^5.8.0"
   },
-
   "bin": "index.js",
   "pkg": {
     "assets": [
       "views/**/*"
     ],
-    "targets": [ 
-      "node14-win-x64", 
-      "node14-macos-x64", 
-      "node14-linux-arm64" 
+    "targets": [
+      "node14-win-x64",
+      "node14-macos-x64",
+      "node14-linux-arm64"
     ]
   }
 }
